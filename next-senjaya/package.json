@@ -1,6 +1,6 @@
 {
   "name": "next-senjaya",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "private": false,
   "scripts": {
     "dev": "next dev",
@@ -13,6 +13,8 @@
     "url": "https://github.com/agungsenjaya/next-senjaya.git"
   },
   "dependencies": {
+    "astro-senjaya": "^1.0.0",
+    "blocktea": "^1.0.0",
     "iframe-website": "^0.2.0",
     "next": "14.1.3",
     "react": "^18",
